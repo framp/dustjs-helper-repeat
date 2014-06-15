@@ -1,8 +1,17 @@
 {
   "name": "dustjs-helper-repeat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Federico Rampazzo <frampone@gmail.com> (http://framp.me)",
   "description": "repeat helper",
+  "keywords": [
+    "templates",
+    "views",
+    "helper",
+    "helpers",
+    "dust",
+    "dustjs",
+    "repeat"
+  ],
   "main": "./repeat.js",
   "repository": {
     "type": "git",
